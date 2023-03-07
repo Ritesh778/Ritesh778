@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 # 💫 About Me:
-🔭I'm currently working on data science and machine learning.<br>🎧Exploring tech.<br>🤝I'm looking forward to collaborate with python-data science-machine learning  developers.<br>🌱I'm currently learning to improve my logical programming skills.<br>📩How to reach me: riteshj2002@gmail.com<br>⚡Fun fact i'm a night 🦉<br>
+🔭I'm currently working on data science and machine learning.<br>🎧Exploring tech.<br>🤝I'm looking forward to collaborate with python-data science-machine learning  developers.<br>🌱I'm currently learning to improve my logical programming skills.<br>📩How to reach me: riteshj0507@gmail.com<br>⚡Fun fact i'm a night 🦉<br>
 
 
 # 💻 Tech Stack:
