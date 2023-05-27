@@ -1,7 +1,8 @@
 
 <p align="center">
-    <img src="https://github.com/Ritesh778/Ritesh778/assets/98031410/e0d13fac-8b84-4957-8cf8-f28f7e2c8386" alt="Ritesh Banner" width="600">
+    <img src="https://github.com/Ritesh778/Ritesh778/assets/98031410/e0d13fac-8b84-4957-8cf8-f28f7e2c8386" alt="Ritesh Banner" width="800">
 </p>
+
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Data Analytics, Machine learning, and Deep learning**
@@ -29,3 +30,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ritesh778&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
