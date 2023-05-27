@@ -1,5 +1,5 @@
 <h1 align="center">Hello,this is Ritesh</h1>
-<h3 align="center">AI/Data Science enthusiast</h3>
+
 
 - 🔭 I’m currently working on **Data Analytics,Machine learning and Deep learning**
 
