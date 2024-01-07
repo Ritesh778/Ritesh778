@@ -9,7 +9,7 @@
 - 🌱 Currently learning to improve my analytical and logical skills
 - 🤝 I’m looking to collaborate with AI/ML developers
 - 📫 How to reach me: [riteshj0507@gmail.com](mailto:riteshj0507@gmail.com)
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Zvcje95hmj2I5PO-cM858lhSVdJlI5ay/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1UYM6Y4Sny5UaHZEvblXI10BVEmJJkBpT/view?usp=drive_link)
 - ⚡ Fun fact: I'm a night 🦉
 
 
