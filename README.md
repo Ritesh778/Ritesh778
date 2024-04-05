@@ -1,7 +1,7 @@
 
-<p align="center">
+<!--<p align="center">
     <img src="https://github.com/Ritesh778/Ritesh778/assets/98031410/e0d13fac-8b84-4957-8cf8-f28f7e2c8386" alt="Ritesh Banner" width="800">
-</p>
+</p>-->
 
 
 # 💫 About Me:
