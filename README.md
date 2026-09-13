@@ -46,29 +46,7 @@ I work at the intersection of **large language models**, **multi-agent systems**
 - **Federated Computer Vision:** privacy-aware crop-disease detection using ConvNeXt, EfficientViT, and ResNet-18 under heterogeneous non-IID settings.
 - **Climate & Sustainability AI:** leading an interdisciplinary research team investigating efficient language-model applications.
 
-## 📌 Selected projects
 
-### [Auditable GraphRAG Multi-Agent Research Platform](https://github.com/Ritesh778)
-
-Hybrid retrieval + specialist agents + citation tracking + tenant isolation. Built for transparent, evidence-grounded AI workflows and validated with **38/38 automated tests**.
-
-### Selective Agent Re-invocation via Evidence Sensitivity
-
-A dependency-aware method that re-executes only agents affected by changed evidence, targeting strong answer-quality retention with lower latency and fewer model invocations.
-
-### Privacy-Preserving Multi-LLM Cognitive Diagnosis
-
-Federated evaluation using LLaMA-3.3-70B, GPT-4o-mini, and Claude-3-Haiku across three datasets, improving average performance by approximately **12.25%** while measuring the privacy–utility trade-off.
-
-### Efficient LLaMA-2 Fine-Tuning
-
-Fine-tuning with **Hugging Face**, **PEFT/LoRA**, and **4-bit quantization**, reducing compute requirements by approximately **87%** and deploying an interactive Streamlit prototype.
-
-## 📝 Selected publications
-
-- **AgriFedNet: Privacy-Preserving Plant Pathology with MobileNetV3-Small** — *Journal of Computing Sciences in Colleges*, 2025.
-- **Enhancing Smart Farming Through Federated Learning: A Secure, Scalable, and Efficient Approach for AI-Driven Agriculture** — *Artificial Intelligence and Applications*, 2026.
-- **A Collaborative Intelligence Framework: Federated Learning for Privacy-Preserving Crop Disease Detection** — *ICAICDSE*, 2026.
 
 ➡️ [View my complete research profile on Google Scholar](https://scholar.google.com/citations?user=kgfbxRUAAAAJ&hl=en)
 
